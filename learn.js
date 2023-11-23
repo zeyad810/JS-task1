@@ -1,0 +1,1 @@
+console.log("%c Welcome Egy Tiger",'color:#a8905d;font-size:45px;font-weight:bold;')
